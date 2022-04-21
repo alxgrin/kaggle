@@ -6,7 +6,7 @@
 * [Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data (Ryan Chang)](notebooks/c_digit-recognizer.ipynb) - 0.97950
 * [Bike Sharing Demand - Forecast use of a city bikeshare system](notebooks/c_bike-sharing-demand.ipynb) - 0.77996
 * [House Prices - Advanced Regression Techniques](notebooks/c_house-prices-advanced-regression-techniques.ipynb) - 0.12468
-* [Titanic - Machine Learning from Disaster](notebooks/c_titanic.ipynb) - 0.79186
+* [Titanic - Machine Learning from Disaster](notebooks/c_titanic.ipynb) - 0.80382
 
 ## Datasets
 
