@@ -2,7 +2,7 @@
 
 ## Competitions
 
-* [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/c_cassava_leaf_disease_classification.ipynb) - 0.74207
+* [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/c_cassava_leaf_disease_classification.ipynb) - 0.76277
 * [Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data (Ryan Chang)](notebooks/c_digit-recognizer.ipynb) - 0.97985
 * [Bike Sharing Demand - Forecast use of a city bikeshare system](notebooks/c_bike-sharing-demand.ipynb) - 0.76255 [RMSLE]
 * [House Prices - Advanced Regression Techniques](notebooks/c_house-prices-advanced-regression-techniques.ipynb) - 0.12609 [RMSLE]
