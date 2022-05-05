@@ -2,6 +2,7 @@
 
 ## Competitions
 
+* [oxic Comment Classification Challenge - Identify and classify toxic online comments](notebooks/c_jigsaw-toxic-comment-classification-challenge.ipynb) - 0.90524
 * [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/c_cassava_leaf_disease_classification.ipynb) - 0.76277
 * [Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data (Ryan Chang)](notebooks/c_digit-recognizer.ipynb) - 0.97985
 * [Bike Sharing Demand - Forecast use of a city bikeshare system](notebooks/c_bike-sharing-demand.ipynb) - 0.76255 [RMSLE]
