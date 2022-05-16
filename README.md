@@ -11,5 +11,5 @@
 
 ## Datasets
 
-* [Bitcoin Historical Data - Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to March 2021](notebooks/mczielinski_bitcoin-historical-data.ipynb) - 0.70907
+* [Bitcoin Historical Data - Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to March 2021](notebooks/mczielinski_bitcoin-historical-data.ipynb) - 0.72219
 * [Face Mask Detection - 853 images belonging to 3 classes](notebooks/andrewmvd_face_mask_detection.ipynb) - 0.88461
