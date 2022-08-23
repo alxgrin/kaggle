@@ -2,10 +2,10 @@
 
 ## Competitions
 
+* [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/cassava-leaf-disease-classification/cassava_leaf_disease_classification.ipynb) - 0.82089
 * [Predict Future Sales - Final project for "How to win a data science competition" Coursera course](notebooks/c_competitive-data-science-predict-future-sales.ipynb) - 1.16445 [RMSE]
 * [Spaceship Titanic - Predict which passengers are transported to an alternate dimension](notebooks/c_spaceship-titanic.ipynb) - 0.80079
 * [Toxic Comment Classification Challenge - Identify and classify toxic online comments](notebooks/c_jigsaw-toxic-comment-classification-challenge.ipynb) - 0.90524
-* [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/c_cassava_leaf_disease_classification.ipynb) - 0.8125
 * [Digit Recognizer - Learn computer vision fundamentals with the famous MNIST data (Ryan Chang)](notebooks/c_digit-recognizer.ipynb) - 0.97985
 * [Bike Sharing Demand - Forecast use of a city bikeshare system](notebooks/c_bike-sharing-demand.ipynb) - 0.73481 [RMSLE]
 * [House Prices - Advanced Regression Techniques](notebooks/c_house-prices-advanced-regression-techniques.ipynb) - 0.12609 [RMSLE]
