@@ -2,7 +2,7 @@
 
 ## Competitions
 
-* [PetFinder.my: pawpularity contest - Predict the popularity of shelter pet photos](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb) - 0.18203 [RMSE]
+* [PetFinder.my: Pawpularity Contest - Predict the popularity of shelter pet photos](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb) - 0.18203 [RMSE]
 * [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/cassava-leaf-disease-classification/cassava_leaf_disease_classification.ipynb) - 0.82089
 * [Predict Future Sales - Final project for "How to win a data science competition" Coursera course](notebooks/c_competitive-data-science-predict-future-sales.ipynb) - 1.16445 [RMSE]
 * [Spaceship Titanic - Predict which passengers are transported to an alternate dimension](notebooks/c_spaceship-titanic.ipynb) - 0.80079
