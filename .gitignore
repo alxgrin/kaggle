@@ -242,4 +242,5 @@ $RECYCLE.BIN/
 /data
 /.vscode
 **/catboost_info
+**/models
 
