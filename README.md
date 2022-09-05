@@ -2,7 +2,7 @@
 
 ## Competitions
 
-* [**_American Express: Default Prediction - Predict if a customer will default in the future_**](notebooks/amex-default-prediction/amex-default-prediction-baseline.ipynb) - 0.75300
+* [_American Express: Default Prediction - Predict if a customer will default in the future_](notebooks/amex-default-prediction/catboost-base-model-v2.ipynb) - 0.78134
 * [PetFinder.my: Pawpularity Contest - Predict the popularity of shelter pet photos](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb) - 0.18203 [RMSE]
 * [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/cassava-leaf-disease-classification/cassava_leaf_disease_classification.ipynb) - 0.82089
 * [Predict Future Sales - Final project for "How to win a data science competition" Coursera course](notebooks/c_competitive-data-science-predict-future-sales.ipynb) - 1.16445 [RMSE]
