@@ -49,3 +49,30 @@ def cbm_v1(df: pd.DataFrame, selected_features: np.array, use_scaler=True):
 
     models_avrg = sum_models(ensemble, weights=[1.0 / len(ensemble)] * len(ensemble))
     return to_classifier(models_avrg)
+
+
+def cbm_v2(df: pd.DataFrame, selected_features: np.array):
+    skf = StratifiedKFold(n_splits=5)
+
+    y = df[["target"]]
+    X = df.drop("target", axis=1)
+
+    if selected_features.size:
+        X = X[selected_features]
+
+    ensemble = []
+
+    for train_index, val_index in skf.split(X, y):
+        X_sub_train, X_sub_valid = X.iloc[train_index], X.iloc[val_index]
+        y_sub_train, y_sub_valid = y.iloc[train_index], y.iloc[val_index]
+
+        train_pool = Pool(X_sub_train, y_sub_train)
+        valid_pool = Pool(X_sub_valid, y_sub_valid)
+
+        model = CatBoostClassifier()
+        model.fit(train_pool, eval_set=valid_pool, verbose=False)
+
+        ensemble.append(model)
+
+    models_avrg = sum_models(ensemble, weights=[1.0 / len(ensemble)] * len(ensemble))
+    return to_classifier(models_avrg)
