@@ -144,6 +144,7 @@ def process_v2(customer_ids: list, conn: sqlite3.connect, test_mode=False):
         ["mean", "std", "min", "max", "last"]
     )
     numerical_df.columns = ["_".join(x) for x in numerical_df.columns]
+    numerical_df[numerical_df.columns] = numerical_df[numerical_df.columns].round(2)
 
     if test_mode:
         return numerical_df.join(categorical_df)

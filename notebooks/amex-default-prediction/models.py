@@ -69,7 +69,7 @@ def cbm_v2(df: pd.DataFrame, selected_features: np.array):
         train_pool = Pool(X_sub_train, y_sub_train)
         valid_pool = Pool(X_sub_valid, y_sub_valid)
 
-        model = CatBoostClassifier()
+        model = CatBoostClassifier(iterations=5000)
         model.fit(train_pool, eval_set=valid_pool, verbose=False)
 
         ensemble.append(model)
