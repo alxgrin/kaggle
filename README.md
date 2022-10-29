@@ -2,6 +2,7 @@
 
 ## Competitions
 
+* [Santander Customer Transaction Prediction - Can you identify who will make a transaction?](notebooks/santander-customer-transaction-prediction/model_v1.ipynb) - 0.89170
 * [American Express: Default Prediction - Predict if a customer will default in the future](notebooks/amex-default-prediction/catboost-base-model-v2.ipynb) - 0.79050
 * [PetFinder.my: Pawpularity Contest - Predict the popularity of shelter pet photos](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb) - 0.18203 [RMSE]
 * [Cassava Leaf Disease Classification - Identify the type of disease present on a Cassava Leaf image](notebooks/cassava-leaf-disease-classification/cassava_leaf_disease_classification.ipynb) - 0.82089
