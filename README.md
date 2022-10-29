@@ -2,7 +2,7 @@
 
 ## Competitions
 
-* [H&M Personalized Fashion Recommendations - Provide product recommendations based on previous purchases](notebooks/h-and-m-personalized-fashion-recommendations/h-and-m-personalized-fashion-recommendations.ipynb) - 0.00000
+* [H&M Personalized Fashion Recommendations - Provide product recommendations based on previous purchases](notebooks/h-and-m-personalized-fashion-recommendations/h-and-m-personalized-fashion-recommendations.ipynb) - 0.0
 * [Santander Customer Transaction Prediction - Can you identify who will make a transaction?](notebooks/santander-customer-transaction-prediction/model_v1.ipynb) - 0.89170
 * [American Express: Default Prediction - Predict if a customer will default in the future](notebooks/amex-default-prediction/catboost-base-model-v2.ipynb) - 0.79050
 * [PetFinder.my: Pawpularity Contest - Predict the popularity of shelter pet photos](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb) - 0.18203 [RMSE]
