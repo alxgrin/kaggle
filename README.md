@@ -35,7 +35,7 @@ Forecast use of a city bikeshare system **0.73481 [RMSLE]**
 #### [House Prices](notebooks/c_house-prices-advanced-regression-techniques.ipynb)
 Advanced Regression Techniques **0.12609 [RMSLE]**
 
-#### [Titanic](notebooks/c_titanic.ipynb)
+#### [Titanic](notebooks/titanic/titanic.ipynb)
 Machine Learning from Disaster **0.80382**
 
 ## Datasets
