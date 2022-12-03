@@ -1,5 +1,10 @@
 # Kaggle
 
+## Research
+
+#### [IEEE-CIS Fraud Detection](notebooks/ieee-fraud-detection/ieee-fraud-detection.ipynb)
+Can you detect fraud from customer transactions? **0.905366**
+
 ## Competitions
 
 #### [H&M Personalized Fashion Recommendations](notebooks/h-and-m-personalized-fashion-recommendations/h-and-m-personalized-fashion-recommendations.ipynb)
