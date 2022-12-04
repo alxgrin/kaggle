@@ -34,8 +34,8 @@ Identify and classify toxic online comments **0.90524**
 #### [Digit Recognizer](notebooks/c_digit-recognizer.ipynb)
 Learn computer vision fundamentals with the famous MNIST data (Ryan Chang) **0.97985**
 
-#### [Bike Sharing Demand](notebooks/c_bike-sharing-demand.ipynb)
-Forecast use of a city bikeshare system **0.73481 [RMSLE]**
+#### [Bike Sharing Demand](notebooks/bike-sharing-demand/bike-sharing-demand.ipynb)
+Forecast use of a city bikeshare system **0.55501 [RMSLE]**
 
 #### [House Prices](notebooks/c_house-prices-advanced-regression-techniques.ipynb)
 Advanced Regression Techniques **0.12609 [RMSLE]**
