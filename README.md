@@ -2,6 +2,9 @@
 
 ## Research
 
+#### [LANL Earthquake Prediction](notebooks/ieee-fraud-detection/ieee-fraud-detection.ipynb)
+Can you predict upcoming laboratory earthquakes? **1.65874**
+
 #### [IEEE-CIS Fraud Detection](notebooks/ieee-fraud-detection/ieee-fraud-detection.ipynb)
 Can you detect fraud from customer transactions? **0.905366**
 
