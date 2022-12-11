@@ -2,7 +2,7 @@
 
 ## Research
 
-#### [LANL Earthquake Prediction](notebooks/ieee-fraud-detection/ieee-fraud-detection.ipynb)
+#### [LANL Earthquake Prediction](notebooks/LANL-Earthquake-Prediction/LANL-Earthquake-Prediction.ipynb)
 Can you predict upcoming laboratory earthquakes? **1.65874**
 
 #### [IEEE-CIS Fraud Detection](notebooks/ieee-fraud-detection/ieee-fraud-detection.ipynb)
