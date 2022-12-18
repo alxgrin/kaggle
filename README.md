@@ -2,6 +2,9 @@
 
 ## Research
 
+#### [Mechanisms of Action (MoA) Prediction](notebooks/lish-moa/lish-moa.ipynb)
+Can you improve the algorithm that classifies drugs based on their biological activity?
+
 #### [LANL Earthquake Prediction](notebooks/LANL-Earthquake-Prediction/LANL-Earthquake-Prediction.ipynb)
 Can you predict upcoming laboratory earthquakes? **1.65874**
 
