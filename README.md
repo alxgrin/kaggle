@@ -2,6 +2,9 @@
 
 ## Research
 
+#### [PetFinder.my: Pawpularity Contest](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb)
+Predict the popularity of shelter pet photos - **0.17639 [RMSE]**
+
 #### [Cassava Leaf Disease Classification](notebooks/cassava-leaf-disease-classification/cassava-leaf-disease-classification.ipynb)
 Identify the type of disease present on a Cassava Leaf image - **0.87336**
 
@@ -24,9 +27,6 @@ Can you identify who will make a transaction? - **0.89170**
 
 #### [American Express: Default Prediction](notebooks/amex-default-prediction/catboost-base-model-v2.ipynb)
 Predict if a customer will default in the future - **0.79050**
-
-#### [PetFinder.my: Pawpularity Contest](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb)
-Predict the popularity of shelter pet photos - **0.18203 [RMSE]**
 
 #### [Predict Future Sales](notebooks/c_competitive-data-science-predict-future-sales.ipynb)
 Final project for "How to win a data science competition" Coursera course - **1.16445 [RMSE]**
