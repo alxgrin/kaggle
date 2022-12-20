@@ -6,7 +6,7 @@
 Identify the type of disease present on a Cassava Leaf image **0.87336**
 
 #### ~~[Mechanisms of Action (MoA) Prediction](notebooks/lish-moa/lish-moa.ipynb)~~
-Can you improve the algorithm that classifies drugs based on their biological activity?
+[FIXME] Can you improve the algorithm that classifies drugs based on their biological activity?
 
 #### [LANL Earthquake Prediction](notebooks/LANL-Earthquake-Prediction/LANL-Earthquake-Prediction.ipynb)
 Can you predict upcoming laboratory earthquakes? **1.65874**
