@@ -5,7 +5,7 @@
 #### [Cassava Leaf Disease Classification](notebooks/cassava-leaf-disease-classification/cassava-leaf-disease-classification.ipynb)
 Identify the type of disease present on a Cassava Leaf image **0.87336**
 
-#### [Mechanisms of Action (MoA) Prediction](notebooks/lish-moa/lish-moa.ipynb)
+#### ~~[Mechanisms of Action (MoA) Prediction](notebooks/lish-moa/lish-moa.ipynb)~~
 Can you improve the algorithm that classifies drugs based on their biological activity?
 
 #### [LANL Earthquake Prediction](notebooks/LANL-Earthquake-Prediction/LANL-Earthquake-Prediction.ipynb)
