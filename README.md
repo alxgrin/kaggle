@@ -2,6 +2,9 @@
 
 ## Research
 
+#### [Cassava Leaf Disease Classification](notebooks/cassava-leaf-disease-classification/cassava-leaf-disease-classification.ipynb)
+Identify the type of disease present on a Cassava Leaf image **0.87336**
+
 #### [Mechanisms of Action (MoA) Prediction](notebooks/lish-moa/lish-moa.ipynb)
 Can you improve the algorithm that classifies drugs based on their biological activity?
 
@@ -24,9 +27,6 @@ Predict if a customer will default in the future **0.79050**
 
 #### [PetFinder.my: Pawpularity Contest](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb)
 Predict the popularity of shelter pet photos **0.18203 [RMSE]**
-
-#### [Cassava Leaf Disease Classification](notebooks/cassava-leaf-disease-classification/cassava_leaf_disease_classification.ipynb)
-Identify the type of disease present on a Cassava Leaf image **0.82089**
 
 #### [Predict Future Sales](notebooks/c_competitive-data-science-predict-future-sales.ipynb)
 Final project for "How to win a data science competition" Coursera course **1.16445 [RMSE]**
