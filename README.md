@@ -43,7 +43,7 @@ Learn computer vision fundamentals with the famous MNIST data (Ryan Chang) - **0
 #### [Bike Sharing Demand](notebooks/bike-sharing-demand/bike-sharing-demand.ipynb)
 Forecast use of a city bikeshare system - **0.55501 [RMSLE]**
 
-#### [House Prices](notebooks/c_house-prices-advanced-regression-techniques.ipynb)
+#### [House Prices](notebooks/house-prices-advanced-regression-techniques/house-prices-advanced-regression-techniques.ipynb)
 Advanced Regression Techniques - **0.12609 [RMSLE]**
 
 #### [Titanic](notebooks/titanic/titanic.ipynb)
