@@ -2,6 +2,9 @@
 
 ## Research
 
+#### [Toxic Comment Classification Challenge](notebooks/jigsaw-toxic-comment-classification-challenge/jigsaw-toxic-comment-classification-challenge.ipynb)
+Identify and classify toxic online comments - **0.80324**
+
 #### [PetFinder.my: Pawpularity Contest](notebooks/petfinder-pawpularity-score/petfinder-pawpularity-score.ipynb)
 Predict the popularity of shelter pet photos - **0.17639 [RMSE]**
 
