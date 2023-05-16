@@ -58,7 +58,7 @@ Start here! Predict survival on the Titanic and get familiar with ML basics - **
 5,863 images, 2 categories - **0.83653**
 
 #### [Bitcoin Historical Data](notebooks/mczielinski_bitcoin-historical-data.ipynb)
-Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to March 2021 - **0.72219**
+Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to March 2021 - **0.71819**
 
 #### [Face Mask Detection](notebooks/andrewmvd_face_mask_detection.ipynb)
 853 images belonging to 3 classes - **0.89657**
