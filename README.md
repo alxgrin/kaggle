@@ -9,7 +9,7 @@ Identify and classify toxic online comments - **0.80324**
 Predict the popularity of shelter pet photos - **0.17639 [RMSE]**
 
 #### [Cassava Leaf Disease Classification](notebooks/cassava-leaf-disease-classification/cassava-leaf-disease-classification.ipynb)
-Identify the type of disease present on a Cassava Leaf image - **0.87336**
+Identify the type of disease present on a Cassava Leaf image - **0.86682**
 
 #### ~~[Mechanisms of Action (MoA) Prediction](notebooks/lish-moa/lish-moa.ipynb)~~
 [FIXME] Can you improve the algorithm that classifies drugs based on their biological activity?
