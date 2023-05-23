@@ -57,7 +57,7 @@ Start here! Predict survival on the Titanic and get familiar with ML basics - **
 #### [Chest X-Ray Images (Pneumonia)](notebooks/paultimothymooney_chest-xray-pneumonia/chest-xray-pneumonia.ipynb)
 5,863 images, 2 categories - **0.83653**
 
-#### [Bitcoin Historical Data](notebooks/mczielinski_bitcoin-historical-data.ipynb)
+#### [Bitcoin Historical Data](notebooks/mczielinski_bitcoin-historical-data/mczielinski_bitcoin-historical-data.ipynb)
 Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to March 2021 - **0.71819**
 
 #### [Face Mask Detection](notebooks/andrewmvd_face_mask_detection.ipynb)
