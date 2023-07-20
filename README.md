@@ -62,3 +62,6 @@ Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to March 2021 - 
 
 #### [Face Mask Detection](notebooks/andrewmvd_face_mask_detection.ipynb)
 853 images belonging to 3 classes - **0.89657**
+
+----
+[How to run a jupyter notebook through a remote server on local machine?](https://stackoverflow.com/a/69244262)
