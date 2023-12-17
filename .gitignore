@@ -239,8 +239,9 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,linux,windows
 
-/data
+/.virtual_documents
 /.vscode
 **/catboost_info
 **/models
+**/datasets
 
