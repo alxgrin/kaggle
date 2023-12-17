@@ -49,7 +49,7 @@ Learn computer vision fundamentals with the famous MNIST data (Ryan Chang) - **0
 #### [Bike Sharing Demand](notebooks/bike-sharing-demand/bike-sharing-demand.ipynb)
 Forecast use of a city bikeshare system - **0.55501 [RMSLE]**
 
-#### [Titanic - Machine Learning from Disaster](notebooks/titanic/titanic.ipynb)
+#### [Titanic - Machine Learning from Disaster](titanic/titanic.ipynb)
 Start here! Predict survival on the Titanic and get familiar with ML basics - **0.80382**
 
 ## Datasets
