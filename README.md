@@ -69,3 +69,5 @@ Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to March 2021 - 
 [How To Set Up a JupyterLab Environment on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-jupyterlab-environment-on-ubuntu-18-04#step-6-setting-up-a-systemd-service)
 
 [How to run a jupyter notebook through a remote server on local machine?](https://stackoverflow.com/a/69244262)
+
+[Discover machine learning, data science & robotics competitions](https://mlcontests.com/)
